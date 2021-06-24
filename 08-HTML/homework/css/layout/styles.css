@@ -1,0 +1,21 @@
+h1 { color: black; font-size: 5rem; }
+
+p, span, h2, h3, h4 { color: #fff; }
+
+a { color: #95d5e0; }
+
+a:hover { transition: all; transition-duration: 3s; color: #020a02; }
+
+#thirdDiv { max-width: 70%; margin: auto auto; box-shadow: 2px 7px 5px 1px #000000; -moz-box-shadow: 2px 7px 5px 1px #000000; -webkit-box-shadow: 2px 7px 5px 1px #000000; background: rgba(235, 235, 235, 0); }
+
+#thirdDiv .contenedor__img { padding: .5rem; max-width: 22rem; max-height: 22rem; border-radius: 1rem; }
+
+#thirdDiv .contenedor__img:hover { border-radius: 40%; -webkit-transform: scale(1.5); transform: scale(1.5); transition-duration: 1.5s; }
+
+#thirdDiv .contenedor { overflow: hidden; }
+
+.thirdDiv { text-align: center; color: #ebebeb; padding: 2.5rem; }
+
+#spanId { font-size: 4rem; }
+
+.footer { margin-top: 3rem; font-size: 2.5rem; }
